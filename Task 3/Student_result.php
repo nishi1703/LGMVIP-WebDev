@@ -77,7 +77,7 @@
     <div class="wrapper">
 
         <div class="main_content" style="margin-left:0px;">
-            <div class="header">Sanwaria Public School
+            <div class="header">Gandhi Institute for Technological Advancement
                 <div class="button noprint">
                     <button onclick="window.print()">Print Result</button>
                 </div>
